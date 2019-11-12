@@ -1,0 +1,2 @@
+https://channel9.msdn.com/Series/GetStartedPowerShell3
+https://www.pstips.net/powershell-online-tutorials
